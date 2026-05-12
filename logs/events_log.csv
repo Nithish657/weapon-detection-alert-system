@@ -1,0 +1,16 @@
+timestamp,label,confidence,image_path,video_path,alert_status
+2026-04-12 10:28:44.597339,knife,0.9407235980033875,evidence/img_20260412_102824.jpg,videos/vid_20260412_102824.avi,sent
+2026-04-12 10:29:28.513068,scissors,0.7525591850280762,evidence/img_20260412_102909.jpg,videos/vid_20260412_102909.avi,sent
+2026-04-12 10:32:46.083586,scissors,0.2614743709564209,evidence/img_20260412_103227.jpg,videos/vid_20260412_103227.avi,sent
+2026-04-12 13:43:43.434552,scissors,0.33181434869766235,evidence/img_20260412_134326.jpg,videos/vid_20260412_134326.avi,sent
+2026-04-12 13:44:04.121583,scissors,0.2628403902053833,evidence/img_20260412_134345.jpg,videos/vid_20260412_134345.avi,sent
+2026-04-12 13:44:36.068460,scissors,0.4882749319076538,evidence/img_20260412_134418.jpg,videos/vid_20260412_134418.avi,sent
+2026-04-12 13:47:01.914043,scissors,0.26340538263320923,evidence/img_20260412_134644.jpg,videos/vid_20260412_134644.avi,sent
+2026-04-12 18:46:44,scissors,0.28,evidence\scissors_20260412_184639.jpg,sent
+2026-04-12 19:00:10,scissors,0.71,evidence\scissors_20260412_190004.jpg,sent
+2026-04-12 19:00:38,scissors,0.29,evidence\scissors_20260412_190031.jpg,sent
+2026-04-12 19:00:52,scissors,0.28,evidence\scissors_20260412_190047.jpg,sent
+2026-04-12 19:07:47,scissors,0.40,evidence\scissors_20260412_190742.jpg,sent
+2026-04-12 19:08:08,scissors,0.37,evidence\scissors_20260412_190803.jpg,sent
+2026-04-12 19:08:26,scissors,0.26,evidence\scissors_20260412_190821.jpg,sent
+2026-04-12 19:08:40,scissors,0.27,evidence\scissors_20260412_190836.jpg,sent
